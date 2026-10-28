@@ -1,0 +1,1707 @@
+{
+  "_note": "Mock Parent and Student data API for FS-08, built on the R4 FAS seed (same NRICs, names, schools, classes). Dates as of 22/10/2026. X01 Hakim Karim must turn 16 on the test day: set his dateOfBirth to test day minus 16 years.",
+  "parents": [
+    {
+      "nric": "S8411053A",
+      "fullName": "Parent of Nur Aisyah",
+      "phoneNumber": "+65 9101 1007",
+      "email": "parent.s01@example.com",
+      "residentialAddress": {
+        "block": "101",
+        "street": "Clementi Avenue 3",
+        "unit": "#04-11",
+        "postalCode": "650013",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "101",
+        "street": "Clementi Avenue 3",
+        "unit": "#04-11",
+        "postalCode": "650013",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411212G",
+      "fullName": "Parent of Ryan Lim",
+      "phoneNumber": "+65 9104 1028",
+      "email": "parent.s04@example.com",
+      "residentialAddress": {
+        "block": "104",
+        "street": "Woodlands Drive 14",
+        "unit": "#07-14",
+        "postalCode": "650052",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "104",
+        "street": "Woodlands Drive 14",
+        "unit": "#07-14",
+        "postalCode": "650052",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411265H",
+      "fullName": "Parent of Chen Xin Yi",
+      "phoneNumber": "+65 9105 1035",
+      "email": "parent.s05@example.com",
+      "residentialAddress": {
+        "block": "105",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#08-15",
+        "postalCode": "650065",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "105",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#08-15",
+        "postalCode": "650065",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411318B",
+      "fullName": "Parent of Daniel Ong",
+      "phoneNumber": "+65 9106 1042",
+      "email": "parent.s06@example.com",
+      "residentialAddress": {
+        "block": "106",
+        "street": "Bukit Batok Street 21",
+        "unit": "#09-16",
+        "postalCode": "650078",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "106",
+        "street": "Bukit Batok Street 21",
+        "unit": "#09-16",
+        "postalCode": "650078",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411371I",
+      "fullName": "Parent of Priya Nair",
+      "phoneNumber": "+65 9107 1049",
+      "email": "parent.s07@example.com",
+      "residentialAddress": {
+        "block": "107",
+        "street": "Clementi Avenue 3",
+        "unit": "#10-17",
+        "postalCode": "650091",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "107",
+        "street": "Clementi Avenue 3",
+        "unit": "#10-17",
+        "postalCode": "650091",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411424C",
+      "fullName": "Parent of Farhan Ismail",
+      "phoneNumber": "+65 9108 1056",
+      "email": "parent.s08@example.com",
+      "residentialAddress": {
+        "block": "108",
+        "street": "Tampines Street 81",
+        "unit": "#11-18",
+        "postalCode": "650104",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "108",
+        "street": "Tampines Street 81",
+        "unit": "#11-18",
+        "postalCode": "650104",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411477D",
+      "fullName": "Parent of Jun Hao Wong",
+      "phoneNumber": "+65 9109 1063",
+      "email": "parent.s09@example.com",
+      "residentialAddress": {
+        "block": "109",
+        "street": "Jurong West Street 52",
+        "unit": "#12-19",
+        "postalCode": "650117",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "109",
+        "street": "Jurong West Street 52",
+        "unit": "#12-19",
+        "postalCode": "650117",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411530D",
+      "fullName": "Parent of Ethan Chua",
+      "phoneNumber": "+65 9110 1070",
+      "email": "parent.s10@example.com",
+      "residentialAddress": {
+        "block": "110",
+        "street": "Woodlands Drive 14",
+        "unit": "#13-20",
+        "postalCode": "650130",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "110",
+        "street": "Woodlands Drive 14",
+        "unit": "#13-20",
+        "postalCode": "650130",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411583E",
+      "fullName": "Parent of Grace Lim",
+      "phoneNumber": "+65 9111 1077",
+      "email": "parent.s11@example.com",
+      "residentialAddress": {
+        "block": "111",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#14-21",
+        "postalCode": "650143",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "111",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#14-21",
+        "postalCode": "650143",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411636Z",
+      "fullName": "Parent of Samuel Teo",
+      "phoneNumber": "+65 9112 1084",
+      "email": "parent.s12@example.com",
+      "residentialAddress": {
+        "block": "112",
+        "street": "Bukit Batok Street 21",
+        "unit": "#15-22",
+        "postalCode": "650156",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "112",
+        "street": "Bukit Batok Street 21",
+        "unit": "#15-22",
+        "postalCode": "650156",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411689J",
+      "fullName": "Parent of Amira Hassan",
+      "phoneNumber": "+65 9113 1091",
+      "email": "parent.s13@example.com",
+      "residentialAddress": {
+        "block": "113",
+        "street": "Clementi Avenue 3",
+        "unit": "#16-23",
+        "postalCode": "650169",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "113",
+        "street": "Clementi Avenue 3",
+        "unit": "#16-23",
+        "postalCode": "650169",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411742J",
+      "fullName": "Parent of Wei Ling Sim",
+      "phoneNumber": "+65 9114 1098",
+      "email": "parent.s14@example.com",
+      "residentialAddress": {
+        "block": "114",
+        "street": "Tampines Street 81",
+        "unit": "#17-24",
+        "postalCode": "650182",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "114",
+        "street": "Tampines Street 81",
+        "unit": "#17-24",
+        "postalCode": "650182",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411795A",
+      "fullName": "Parent of Kavitha Raj",
+      "phoneNumber": "+65 9115 1105",
+      "email": "parent.s15@example.com",
+      "residentialAddress": {
+        "block": "115",
+        "street": "Jurong West Street 52",
+        "unit": "#03-25",
+        "postalCode": "650195",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "115",
+        "street": "Jurong West Street 52",
+        "unit": "#03-25",
+        "postalCode": "650195",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411848F",
+      "fullName": "Parent of Darren Ho",
+      "phoneNumber": "+65 9116 1112",
+      "email": "parent.s16@example.com",
+      "residentialAddress": {
+        "block": "116",
+        "street": "Woodlands Drive 14",
+        "unit": "#04-26",
+        "postalCode": "650208",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "116",
+        "street": "Woodlands Drive 14",
+        "unit": "#04-26",
+        "postalCode": "650208",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411954G",
+      "fullName": "Parent of Zachary Lee",
+      "phoneNumber": "+65 9118 1126",
+      "email": "parent.s18@example.com",
+      "residentialAddress": {
+        "block": "118",
+        "street": "Bukit Batok Street 21",
+        "unit": "#06-28",
+        "postalCode": "650234",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "118",
+        "street": "Bukit Batok Street 21",
+        "unit": "#06-28",
+        "postalCode": "650234",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412007C",
+      "fullName": "Parent of Chloe Ng",
+      "phoneNumber": "+65 9119 1133",
+      "email": "parent.s19@example.com",
+      "residentialAddress": {
+        "block": "119",
+        "street": "Clementi Avenue 3",
+        "unit": "#07-29",
+        "postalCode": "650247",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "119",
+        "street": "Clementi Avenue 3",
+        "unit": "#07-29",
+        "postalCode": "650247",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412060Z",
+      "fullName": "Parent of Owen Goh",
+      "phoneNumber": "+65 9120 1140",
+      "email": "parent.s20@example.com",
+      "residentialAddress": {
+        "block": "120",
+        "street": "Tampines Street 81",
+        "unit": "#08-30",
+        "postalCode": "650260",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "120",
+        "street": "Tampines Street 81",
+        "unit": "#08-30",
+        "postalCode": "650260",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "F8412113N",
+      "fullName": "Parent of Kenji Mori",
+      "phoneNumber": "+65 9121 1147",
+      "email": "parent.s21@example.com",
+      "residentialAddress": {
+        "block": "121",
+        "street": "Jurong West Street 52",
+        "unit": "#09-31",
+        "postalCode": "650273",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "121",
+        "street": "Jurong West Street 52",
+        "unit": "#09-31",
+        "postalCode": "650273",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412166E",
+      "fullName": "Parent of Mei Ting Yap",
+      "phoneNumber": "+65 9122 1154",
+      "email": "parent.s22@example.com",
+      "residentialAddress": {
+        "block": "122",
+        "street": "Woodlands Drive 14",
+        "unit": "#10-32",
+        "postalCode": "650286",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "122",
+        "street": "Woodlands Drive 14",
+        "unit": "#10-32",
+        "postalCode": "650286",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412219Z",
+      "fullName": "Parent of Aiden Pillai",
+      "phoneNumber": "+65 9123 1161",
+      "email": "parent.s23@example.com",
+      "residentialAddress": {
+        "block": "123",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#11-33",
+        "postalCode": "650299",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "123",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#11-33",
+        "postalCode": "650299",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412272F",
+      "fullName": "Parent of Isabelle Tan",
+      "phoneNumber": "+65 9124 1168",
+      "email": "parent.s24@example.com",
+      "residentialAddress": {
+        "block": "124",
+        "street": "Bukit Batok Street 21",
+        "unit": "#12-34",
+        "postalCode": "650312",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "124",
+        "street": "Bukit Batok Street 21",
+        "unit": "#12-34",
+        "postalCode": "650312",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412325J",
+      "fullName": "Parent of Nadia Karim",
+      "phoneNumber": "+65 9125 1175",
+      "email": "parent.s25@example.com",
+      "residentialAddress": {
+        "block": "125",
+        "street": "Clementi Avenue 3",
+        "unit": "#13-35",
+        "postalCode": "650325",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "125",
+        "street": "Clementi Avenue 3",
+        "unit": "#13-35",
+        "postalCode": "650325",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412378A",
+      "fullName": "Parent of Jayden Low",
+      "phoneNumber": "+65 9126 1182",
+      "email": "parent.s26@example.com",
+      "residentialAddress": {
+        "block": "126",
+        "street": "Tampines Street 81",
+        "unit": "#14-36",
+        "postalCode": "650338",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "126",
+        "street": "Tampines Street 81",
+        "unit": "#14-36",
+        "postalCode": "650338",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412431A",
+      "fullName": "Parent of Sophia Ramos",
+      "phoneNumber": "+65 9127 1189",
+      "email": "parent.s27@example.com",
+      "residentialAddress": {
+        "block": "127",
+        "street": "Jurong West Street 52",
+        "unit": "#15-37",
+        "postalCode": "650351",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "127",
+        "street": "Jurong West Street 52",
+        "unit": "#15-37",
+        "postalCode": "650351",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412484B",
+      "fullName": "Parent of Hana Yusof",
+      "phoneNumber": "+65 9128 1196",
+      "email": "parent.s28@example.com",
+      "residentialAddress": {
+        "block": "128",
+        "street": "Woodlands Drive 14",
+        "unit": "#16-38",
+        "postalCode": "650364",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "128",
+        "street": "Woodlands Drive 14",
+        "unit": "#16-38",
+        "postalCode": "650364",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412537G",
+      "fullName": "Parent of Test Student 01 Pagination",
+      "phoneNumber": "+65 9129 1203",
+      "email": "parent.fs01@example.com",
+      "residentialAddress": {
+        "block": "129",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#17-39",
+        "postalCode": "650377",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "129",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#17-39",
+        "postalCode": "650377",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412590C",
+      "fullName": "Parent of Test Student 02 Pagination",
+      "phoneNumber": "+65 9130 1210",
+      "email": "parent.fs02@example.com",
+      "residentialAddress": {
+        "block": "130",
+        "street": "Bukit Batok Street 21",
+        "unit": "#03-40",
+        "postalCode": "650390",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "130",
+        "street": "Bukit Batok Street 21",
+        "unit": "#03-40",
+        "postalCode": "650390",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412643H",
+      "fullName": "Parent of Test Student 03 Pagination",
+      "phoneNumber": "+65 9131 1217",
+      "email": "parent.fs03@example.com",
+      "residentialAddress": {
+        "block": "131",
+        "street": "Clementi Avenue 3",
+        "unit": "#04-41",
+        "postalCode": "650403",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "131",
+        "street": "Clementi Avenue 3",
+        "unit": "#04-41",
+        "postalCode": "650403",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412696I",
+      "fullName": "Parent of Test Student 04 Pagination",
+      "phoneNumber": "+65 9132 1224",
+      "email": "parent.fs04@example.com",
+      "residentialAddress": {
+        "block": "132",
+        "street": "Tampines Street 81",
+        "unit": "#05-42",
+        "postalCode": "650416",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "132",
+        "street": "Tampines Street 81",
+        "unit": "#05-42",
+        "postalCode": "650416",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412749C",
+      "fullName": "Parent of Test Student 05 Pagination",
+      "phoneNumber": "+65 9133 1231",
+      "email": "parent.fs05@example.com",
+      "residentialAddress": {
+        "block": "133",
+        "street": "Jurong West Street 52",
+        "unit": "#06-43",
+        "postalCode": "650429",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "133",
+        "street": "Jurong West Street 52",
+        "unit": "#06-43",
+        "postalCode": "650429",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412802C",
+      "fullName": "Parent of Test Student 06 Pagination",
+      "phoneNumber": "+65 9134 1238",
+      "email": "parent.fs06@example.com",
+      "residentialAddress": {
+        "block": "134",
+        "street": "Woodlands Drive 14",
+        "unit": "#07-44",
+        "postalCode": "650442",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "134",
+        "street": "Woodlands Drive 14",
+        "unit": "#07-44",
+        "postalCode": "650442",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412855D",
+      "fullName": "Parent of Test Student 07 Pagination",
+      "phoneNumber": "+65 9135 1245",
+      "email": "parent.fs07@example.com",
+      "residentialAddress": {
+        "block": "135",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#08-45",
+        "postalCode": "650455",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "135",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#08-45",
+        "postalCode": "650455",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412908I",
+      "fullName": "Parent of Test Student 08 Pagination",
+      "phoneNumber": "+65 9136 1252",
+      "email": "parent.fs08@example.com",
+      "residentialAddress": {
+        "block": "136",
+        "street": "Bukit Batok Street 21",
+        "unit": "#09-46",
+        "postalCode": "650468",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "136",
+        "street": "Bukit Batok Street 21",
+        "unit": "#09-46",
+        "postalCode": "650468",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8412961E",
+      "fullName": "Parent of Test Student 09 Pagination",
+      "phoneNumber": "+65 9137 1259",
+      "email": "parent.fs09@example.com",
+      "residentialAddress": {
+        "block": "137",
+        "street": "Clementi Avenue 3",
+        "unit": "#10-47",
+        "postalCode": "650481",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "137",
+        "street": "Clementi Avenue 3",
+        "unit": "#10-47",
+        "postalCode": "650481",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413014A",
+      "fullName": "Parent of Test Student 10 Pagination",
+      "phoneNumber": "+65 9138 1266",
+      "email": "parent.fs10@example.com",
+      "residentialAddress": {
+        "block": "138",
+        "street": "Tampines Street 81",
+        "unit": "#11-48",
+        "postalCode": "650494",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "138",
+        "street": "Tampines Street 81",
+        "unit": "#11-48",
+        "postalCode": "650494",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413067B",
+      "fullName": "Parent of Test Student 11 Pagination",
+      "phoneNumber": "+65 9139 1273",
+      "email": "parent.fs11@example.com",
+      "residentialAddress": {
+        "block": "139",
+        "street": "Jurong West Street 52",
+        "unit": "#12-49",
+        "postalCode": "650507",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "139",
+        "street": "Jurong West Street 52",
+        "unit": "#12-49",
+        "postalCode": "650507",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413120B",
+      "fullName": "Parent of Test Student 12 Pagination",
+      "phoneNumber": "+65 9140 1280",
+      "email": "parent.fs12@example.com",
+      "residentialAddress": {
+        "block": "140",
+        "street": "Woodlands Drive 14",
+        "unit": "#13-10",
+        "postalCode": "650520",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "140",
+        "street": "Woodlands Drive 14",
+        "unit": "#13-10",
+        "postalCode": "650520",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413173C",
+      "fullName": "Parent of Test Student 13 Pagination",
+      "phoneNumber": "+65 9141 1287",
+      "email": "parent.fs13@example.com",
+      "residentialAddress": {
+        "block": "141",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#14-11",
+        "postalCode": "650533",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "141",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#14-11",
+        "postalCode": "650533",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413226H",
+      "fullName": "Parent of Test Student 14 Pagination",
+      "phoneNumber": "+65 9142 1294",
+      "email": "parent.fs14@example.com",
+      "residentialAddress": {
+        "block": "142",
+        "street": "Bukit Batok Street 21",
+        "unit": "#15-12",
+        "postalCode": "650546",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "142",
+        "street": "Bukit Batok Street 21",
+        "unit": "#15-12",
+        "postalCode": "650546",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413279I",
+      "fullName": "Parent of Test Student 15 Pagination",
+      "phoneNumber": "+65 9143 1301",
+      "email": "parent.fs15@example.com",
+      "residentialAddress": {
+        "block": "143",
+        "street": "Clementi Avenue 3",
+        "unit": "#16-13",
+        "postalCode": "650559",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "143",
+        "street": "Clementi Avenue 3",
+        "unit": "#16-13",
+        "postalCode": "650559",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413332I",
+      "fullName": "Parent of Test Student 16 Pagination",
+      "phoneNumber": "+65 9144 1308",
+      "email": "parent.fs16@example.com",
+      "residentialAddress": {
+        "block": "144",
+        "street": "Tampines Street 81",
+        "unit": "#17-14",
+        "postalCode": "650572",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "144",
+        "street": "Tampines Street 81",
+        "unit": "#17-14",
+        "postalCode": "650572",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413385Z",
+      "fullName": "Parent of Test Student 17 Pagination",
+      "phoneNumber": "+65 9145 1315",
+      "email": "parent.fs17@example.com",
+      "residentialAddress": {
+        "block": "145",
+        "street": "Jurong West Street 52",
+        "unit": "#03-15",
+        "postalCode": "650585",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "145",
+        "street": "Jurong West Street 52",
+        "unit": "#03-15",
+        "postalCode": "650585",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413438D",
+      "fullName": "Parent of Test Student 18 Pagination",
+      "phoneNumber": "+65 9146 1322",
+      "email": "parent.fs18@example.com",
+      "residentialAddress": {
+        "block": "146",
+        "street": "Woodlands Drive 14",
+        "unit": "#04-16",
+        "postalCode": "650598",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "146",
+        "street": "Woodlands Drive 14",
+        "unit": "#04-16",
+        "postalCode": "650598",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413491J",
+      "fullName": "Parent of Test Student 19 Pagination",
+      "phoneNumber": "+65 9147 1329",
+      "email": "parent.fs19@example.com",
+      "residentialAddress": {
+        "block": "147",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#05-17",
+        "postalCode": "650611",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "147",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#05-17",
+        "postalCode": "650611",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413544E",
+      "fullName": "Parent of Test Student 20 Pagination",
+      "phoneNumber": "+65 9148 1336",
+      "email": "parent.fs20@example.com",
+      "residentialAddress": {
+        "block": "148",
+        "street": "Bukit Batok Street 21",
+        "unit": "#06-18",
+        "postalCode": "650624",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "148",
+        "street": "Bukit Batok Street 21",
+        "unit": "#06-18",
+        "postalCode": "650624",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8413597F",
+      "fullName": "Parent of Test Student 21 Pagination",
+      "phoneNumber": "+65 9149 1343",
+      "email": "parent.fs21@example.com",
+      "residentialAddress": {
+        "block": "149",
+        "street": "Clementi Avenue 3",
+        "unit": "#07-19",
+        "postalCode": "650637",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "149",
+        "street": "Clementi Avenue 3",
+        "unit": "#07-19",
+        "postalCode": "650637",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8200222D",
+      "fullName": "Rahman bin Ali",
+      "phoneNumber": "+65 9123 4567",
+      "email": "parent@example.com",
+      "residentialAddress": {
+        "block": "102",
+        "street": "Tampines Street 81",
+        "unit": "#05-12",
+        "postalCode": "650026",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "102",
+        "street": "Tampines Street 81",
+        "unit": "#05-12",
+        "postalCode": "650026",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411159G",
+      "fullName": "Parent of Lee Zhi Hao",
+      "phoneNumber": "+65 9103 1021",
+      "email": "parent.s03@example.com",
+      "residentialAddress": {
+        "block": "103",
+        "street": "Jurong West Street 52",
+        "unit": "#06-13",
+        "postalCode": "650039",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "103",
+        "street": "Jurong West Street 52",
+        "unit": "#06-13",
+        "postalCode": "650039",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8411901F",
+      "fullName": "Parent of Nurul Huda",
+      "phoneNumber": "+65 9117 1119",
+      "email": "parent.s17@example.com",
+      "residentialAddress": {
+        "block": "117",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#05-27",
+        "postalCode": "650221",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "117",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#05-27",
+        "postalCode": "650221",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S7912340D",
+      "fullName": "Spouse of Nadia Karim (Father)",
+      "phoneNumber": "+65 9125 2175",
+      "email": "parent.s25.father@example.com",
+      "residentialAddress": {
+        "block": "125",
+        "street": "Clementi Avenue 3",
+        "unit": "#13-35",
+        "postalCode": "650325",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "125",
+        "street": "Clementi Avenue 3",
+        "unit": "#13-35",
+        "postalCode": "650325",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S7623451E",
+      "fullName": "Lim Siew Mei",
+      "phoneNumber": "+65 9150 1350",
+      "email": "parent.x01@example.com",
+      "residentialAddress": {
+        "block": "22",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#09-22",
+        "postalCode": "510022",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "22",
+        "street": "Pasir Ris Drive 6",
+        "unit": "#09-22",
+        "postalCode": "510022",
+        "country": "Singapore"
+      }
+    },
+    {
+      "nric": "S8467890B",
+      "fullName": "Wong Kar Seng",
+      "phoneNumber": "+65 9151 1357",
+      "email": "parent.x02@example.com",
+      "residentialAddress": {
+        "block": "77",
+        "street": "Clementi Avenue 3",
+        "unit": "#02-77",
+        "postalCode": "120077",
+        "country": "Singapore"
+      },
+      "mailingAddress": {
+        "block": "77",
+        "street": "Clementi Avenue 3",
+        "unit": "#02-77",
+        "postalCode": "120077",
+        "country": "Singapore"
+      }
+    }
+  ],
+  "students": [
+    {
+      "nric": "T1688001E",
+      "fullName": "Nur Aisyah",
+      "gender": "Female",
+      "dateOfBirth": "2012-02-02",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 3",
+      "className": "Sec 3 Excellence",
+      "fatherNric": null,
+      "motherNric": "S8411053A"
+    },
+    {
+      "nric": "T1801177D",
+      "fullName": "Aisha Rahman",
+      "gender": "Female",
+      "dateOfBirth": "2017-03-03",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8200222D",
+      "motherNric": null
+    },
+    {
+      "nric": "T1702215B",
+      "fullName": "Lee Zhi Hao",
+      "gender": "Male",
+      "dateOfBirth": "2013-04-04",
+      "citizenship": "Citizen",
+      "school": "Riverside Secondary",
+      "level": "Sec 2",
+      "className": "Sec 2 Courage",
+      "fatherNric": null,
+      "motherNric": "S8411159G"
+    },
+    {
+      "nric": "T1790221G",
+      "fullName": "Ryan Lim",
+      "gender": "Male",
+      "dateOfBirth": "2015-05-05",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P5",
+      "className": "P5 Honesty",
+      "fatherNric": "S8411212G",
+      "motherNric": null
+    },
+    {
+      "nric": "T1775532Z",
+      "fullName": "Chen Xin Yi",
+      "gender": "Female",
+      "dateOfBirth": "2016-06-06",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P4",
+      "className": "P4 Kindness",
+      "fatherNric": null,
+      "motherNric": "S8411265H"
+    },
+    {
+      "nric": "T1755501J",
+      "fullName": "Daniel Ong",
+      "gender": "Male",
+      "dateOfBirth": "2018-07-07",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P2",
+      "className": "P2 Care",
+      "fatherNric": "S8411318B",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730259G",
+      "fullName": "Priya Nair",
+      "gender": "Female",
+      "dateOfBirth": "2017-08-08",
+      "citizenship": "PR",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8411371I"
+    },
+    {
+      "nric": "T1730296A",
+      "fullName": "Farhan Ismail",
+      "gender": "Male",
+      "dateOfBirth": "2013-09-09",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 2",
+      "className": "Sec 2 Integrity",
+      "fatherNric": "S8411424C",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730333Z",
+      "fullName": "Jun Hao Wong",
+      "gender": "Male",
+      "dateOfBirth": "2014-10-10",
+      "citizenship": "Citizen",
+      "school": "Riverside Secondary",
+      "level": "Sec 1",
+      "className": "Sec 1 Wisdom",
+      "fatherNric": null,
+      "motherNric": "S8411477D"
+    },
+    {
+      "nric": "T1730370D",
+      "fullName": "Ethan Chua",
+      "gender": "Male",
+      "dateOfBirth": "2012-11-11",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 3",
+      "className": "Sec 3 Excellence",
+      "fatherNric": "S8411530D",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730407G",
+      "fullName": "Grace Lim",
+      "gender": "Female",
+      "dateOfBirth": "2013-12-12",
+      "citizenship": "Citizen",
+      "school": "Riverside Secondary",
+      "level": "Sec 2",
+      "className": "Sec 2 Courage",
+      "fatherNric": null,
+      "motherNric": "S8411583E"
+    },
+    {
+      "nric": "T1730444A",
+      "fullName": "Samuel Teo",
+      "gender": "Male",
+      "dateOfBirth": "2013-01-13",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 2",
+      "className": "Sec 2 Integrity",
+      "fatherNric": "S8411636Z",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730481F",
+      "fullName": "Amira Hassan",
+      "gender": "Female",
+      "dateOfBirth": "2017-02-14",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8411689J"
+    },
+    {
+      "nric": "T1730518I",
+      "fullName": "Wei Ling Sim",
+      "gender": "Female",
+      "dateOfBirth": "2012-03-15",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 3",
+      "className": "Sec 3 Excellence",
+      "fatherNric": "S8411742J",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730555C",
+      "fullName": "Kavitha Raj",
+      "gender": "Female",
+      "dateOfBirth": "2014-04-16",
+      "citizenship": "Citizen",
+      "school": "Riverside Secondary",
+      "level": "Sec 1",
+      "className": "Sec 1 Wisdom",
+      "fatherNric": null,
+      "motherNric": "S8411795A"
+    },
+    {
+      "nric": "T1730592H",
+      "fullName": "Darren Ho",
+      "gender": "Male",
+      "dateOfBirth": "2015-05-17",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P5",
+      "className": "P5 Honesty",
+      "fatherNric": "S8411848F",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730629J",
+      "fullName": "Nurul Huda",
+      "gender": "Female",
+      "dateOfBirth": "2016-06-18",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P4",
+      "className": "P4 Kindness",
+      "fatherNric": null,
+      "motherNric": "S8411901F"
+    },
+    {
+      "nric": "T1730666E",
+      "fullName": "Zachary Lee",
+      "gender": "Male",
+      "dateOfBirth": "2017-07-19",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8411954G",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730703C",
+      "fullName": "Chloe Ng",
+      "gender": "Female",
+      "dateOfBirth": "2017-08-20",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8412007C"
+    },
+    {
+      "nric": "T1730740H",
+      "fullName": "Owen Goh",
+      "gender": "Male",
+      "dateOfBirth": "2015-09-21",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P5",
+      "className": "P5 Honesty",
+      "fatherNric": "S8412060Z",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730777G",
+      "fullName": "Kenji Mori",
+      "gender": "Male",
+      "dateOfBirth": "2017-10-22",
+      "citizenship": "Foreigner",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "F8412113N"
+    },
+    {
+      "nric": "T1730814E",
+      "fullName": "Mei Ting Yap",
+      "gender": "Female",
+      "dateOfBirth": "2018-11-23",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P2",
+      "className": "P2 Care",
+      "fatherNric": "S8412166E",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730851Z",
+      "fullName": "Aiden Pillai",
+      "gender": "Male",
+      "dateOfBirth": "2013-12-24",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 2",
+      "className": "Sec 2 Integrity",
+      "fatherNric": null,
+      "motherNric": "S8412219Z"
+    },
+    {
+      "nric": "T1730888I",
+      "fullName": "Isabelle Tan",
+      "gender": "Female",
+      "dateOfBirth": "2015-01-25",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P5",
+      "className": "P5 Honesty",
+      "fatherNric": "S8412272F",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730925G",
+      "fullName": "Nadia Karim",
+      "gender": "Female",
+      "dateOfBirth": "2016-02-26",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P4",
+      "className": "P4 Kindness",
+      "fatherNric": "S7912340D",
+      "motherNric": "S8412325J"
+    },
+    {
+      "nric": "T1730962A",
+      "fullName": "Jayden Low",
+      "gender": "Male",
+      "dateOfBirth": "2012-03-27",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 3",
+      "className": "Sec 3 Excellence",
+      "fatherNric": "S8412378A",
+      "motherNric": null
+    },
+    {
+      "nric": "T1730999J",
+      "fullName": "Sophia Ramos",
+      "gender": "Female",
+      "dateOfBirth": "2017-04-01",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8412431A"
+    },
+    {
+      "nric": "T1731036J",
+      "fullName": "Hana Yusof",
+      "gender": "Female",
+      "dateOfBirth": "2013-05-02",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 2",
+      "className": "Sec 2 Integrity",
+      "fatherNric": "S8412484B",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731073E",
+      "fullName": "Test Student 01 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-06-03",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8412537G"
+    },
+    {
+      "nric": "T1731110C",
+      "fullName": "Test Student 02 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-07-04",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8412590C",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731147B",
+      "fullName": "Test Student 03 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-08-05",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8412643H"
+    },
+    {
+      "nric": "T1731184G",
+      "fullName": "Test Student 04 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-09-06",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8412696I",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731221E",
+      "fullName": "Test Student 05 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-10-07",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8412749C"
+    },
+    {
+      "nric": "T1731258D",
+      "fullName": "Test Student 06 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-11-08",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8412802C",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731295I",
+      "fullName": "Test Student 07 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-12-09",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8412855D"
+    },
+    {
+      "nric": "T1731332G",
+      "fullName": "Test Student 08 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-01-10",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8412908I",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731369F",
+      "fullName": "Test Student 09 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-02-11",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8412961E"
+    },
+    {
+      "nric": "T1731406D",
+      "fullName": "Test Student 10 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-03-12",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8413014A",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731443I",
+      "fullName": "Test Student 11 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-04-13",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8413067B"
+    },
+    {
+      "nric": "T1731480C",
+      "fullName": "Test Student 12 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-05-14",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8413120B",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731517F",
+      "fullName": "Test Student 13 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-06-15",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8413173C"
+    },
+    {
+      "nric": "T1731554J",
+      "fullName": "Test Student 14 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-07-16",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8413226H",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731591E",
+      "fullName": "Test Student 15 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-08-17",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8413279I"
+    },
+    {
+      "nric": "T1731628H",
+      "fullName": "Test Student 16 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-09-18",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8413332I",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731665B",
+      "fullName": "Test Student 17 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-10-19",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8413385Z"
+    },
+    {
+      "nric": "T1731702J",
+      "fullName": "Test Student 18 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-11-20",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8413438D",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731739Z",
+      "fullName": "Test Student 19 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-12-21",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8413491J"
+    },
+    {
+      "nric": "T1731776D",
+      "fullName": "Test Student 20 Pagination",
+      "gender": "Female",
+      "dateOfBirth": "2017-01-22",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": "S8413544E",
+      "motherNric": null
+    },
+    {
+      "nric": "T1731813B",
+      "fullName": "Test Student 21 Pagination",
+      "gender": "Male",
+      "dateOfBirth": "2017-02-23",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P3",
+      "className": "P3 Respect",
+      "fatherNric": null,
+      "motherNric": "S8413597F"
+    },
+    {
+      "nric": "T1023401D",
+      "fullName": "Hakim Karim",
+      "gender": "Male",
+      "dateOfBirth": "2010-10-22",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 4",
+      "className": "Sec 4 Harmony",
+      "fatherNric": "S7912340D",
+      "motherNric": "S8412325J"
+    },
+    {
+      "nric": "T2123402D",
+      "fullName": "Sara Karim",
+      "gender": "Female",
+      "dateOfBirth": "2021-04-14",
+      "citizenship": "Citizen",
+      "school": null,
+      "level": null,
+      "className": null,
+      "fatherNric": "S7912340D",
+      "motherNric": "S8412325J"
+    },
+    {
+      "nric": "T1223403H",
+      "fullName": "Emma Chua",
+      "gender": "Female",
+      "dateOfBirth": "2012-11-11",
+      "citizenship": "Citizen",
+      "school": "Meridian Secondary",
+      "level": "Sec 3",
+      "className": "Sec 3 Excellence",
+      "fatherNric": "S8411530D",
+      "motherNric": null
+    },
+    {
+      "nric": "T1923404A",
+      "fullName": "Nur Iman",
+      "gender": "Male",
+      "dateOfBirth": "2019-03-10",
+      "citizenship": "Citizen",
+      "school": "Bukit View Primary",
+      "level": "P1",
+      "className": "P1 Joy",
+      "fatherNric": null,
+      "motherNric": "S8411053A"
+    },
+    {
+      "nric": "T0923405A",
+      "fullName": "Lim Wei Jie",
+      "gender": "Male",
+      "dateOfBirth": "2009-04-12",
+      "citizenship": "Citizen",
+      "school": "Riverside Secondary",
+      "level": "Sec 5",
+      "className": "Sec 5 Resilience",
+      "fatherNric": null,
+      "motherNric": "S7623451E"
+    },
+    {
+      "nric": "T1023406E",
+      "fullName": "Lim Hui Ling",
+      "gender": "Female",
+      "dateOfBirth": "2010-09-01",
+      "citizenship": "Citizen",
+      "school": "Riverside Secondary",
+      "level": "Sec 4",
+      "className": "Sec 4 Grace",
+      "fatherNric": null,
+      "motherNric": "S7623451E"
+    }
+  ]
+}

@@ -1,0 +1,2230 @@
+{
+  "personas": {
+    "S8411053A": {
+      "uinfin": {
+        "value": "S8411053A",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Nur Aisyah",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "101"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "04"
+        },
+        "unit": {
+          "value": "11"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650013"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411212G": {
+      "uinfin": {
+        "value": "S8411212G",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Ryan Lim",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "104"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "07"
+        },
+        "unit": {
+          "value": "14"
+        },
+        "street": {
+          "value": "Woodlands Drive 14"
+        },
+        "postal": {
+          "value": "650052"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411265H": {
+      "uinfin": {
+        "value": "S8411265H",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Chen Xin Yi",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "105"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "08"
+        },
+        "unit": {
+          "value": "15"
+        },
+        "street": {
+          "value": "Pasir Ris Drive 6"
+        },
+        "postal": {
+          "value": "650065"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411318B": {
+      "uinfin": {
+        "value": "S8411318B",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Daniel Ong",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "106"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "09"
+        },
+        "unit": {
+          "value": "16"
+        },
+        "street": {
+          "value": "Bukit Batok Street 21"
+        },
+        "postal": {
+          "value": "650078"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411371I": {
+      "uinfin": {
+        "value": "S8411371I",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Priya Nair",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "107"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "10"
+        },
+        "unit": {
+          "value": "17"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650091"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411424C": {
+      "uinfin": {
+        "value": "S8411424C",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Farhan Ismail",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "108"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "11"
+        },
+        "unit": {
+          "value": "18"
+        },
+        "street": {
+          "value": "Tampines Street 81"
+        },
+        "postal": {
+          "value": "650104"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411477D": {
+      "uinfin": {
+        "value": "S8411477D",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Jun Hao Wong",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "109"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "12"
+        },
+        "unit": {
+          "value": "19"
+        },
+        "street": {
+          "value": "Jurong West Street 52"
+        },
+        "postal": {
+          "value": "650117"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411530D": {
+      "uinfin": {
+        "value": "S8411530D",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Ethan Chua",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "110"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "13"
+        },
+        "unit": {
+          "value": "20"
+        },
+        "street": {
+          "value": "Woodlands Drive 14"
+        },
+        "postal": {
+          "value": "650130"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411583E": {
+      "uinfin": {
+        "value": "S8411583E",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Grace Lim",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "111"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "14"
+        },
+        "unit": {
+          "value": "21"
+        },
+        "street": {
+          "value": "Pasir Ris Drive 6"
+        },
+        "postal": {
+          "value": "650143"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411636Z": {
+      "uinfin": {
+        "value": "S8411636Z",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Samuel Teo",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "112"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "15"
+        },
+        "unit": {
+          "value": "22"
+        },
+        "street": {
+          "value": "Bukit Batok Street 21"
+        },
+        "postal": {
+          "value": "650156"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411689J": {
+      "uinfin": {
+        "value": "S8411689J",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Amira Hassan",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "113"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "16"
+        },
+        "unit": {
+          "value": "23"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650169"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411742J": {
+      "uinfin": {
+        "value": "S8411742J",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Wei Ling Sim",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "114"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "17"
+        },
+        "unit": {
+          "value": "24"
+        },
+        "street": {
+          "value": "Tampines Street 81"
+        },
+        "postal": {
+          "value": "650182"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411795A": {
+      "uinfin": {
+        "value": "S8411795A",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Kavitha Raj",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "115"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "03"
+        },
+        "unit": {
+          "value": "25"
+        },
+        "street": {
+          "value": "Jurong West Street 52"
+        },
+        "postal": {
+          "value": "650195"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411848F": {
+      "uinfin": {
+        "value": "S8411848F",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Darren Ho",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "116"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "04"
+        },
+        "unit": {
+          "value": "26"
+        },
+        "street": {
+          "value": "Woodlands Drive 14"
+        },
+        "postal": {
+          "value": "650208"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411954G": {
+      "uinfin": {
+        "value": "S8411954G",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Zachary Lee",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "118"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "06"
+        },
+        "unit": {
+          "value": "28"
+        },
+        "street": {
+          "value": "Bukit Batok Street 21"
+        },
+        "postal": {
+          "value": "650234"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412007C": {
+      "uinfin": {
+        "value": "S8412007C",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Chloe Ng",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "119"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "07"
+        },
+        "unit": {
+          "value": "29"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650247"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412060Z": {
+      "uinfin": {
+        "value": "S8412060Z",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Owen Goh",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "120"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "08"
+        },
+        "unit": {
+          "value": "30"
+        },
+        "street": {
+          "value": "Tampines Street 81"
+        },
+        "postal": {
+          "value": "650260"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "F8412113N": {
+      "uinfin": {
+        "value": "F8412113N",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Kenji Mori",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "121"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "09"
+        },
+        "unit": {
+          "value": "31"
+        },
+        "street": {
+          "value": "Jurong West Street 52"
+        },
+        "postal": {
+          "value": "650273"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412166E": {
+      "uinfin": {
+        "value": "S8412166E",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Mei Ting Yap",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "122"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "10"
+        },
+        "unit": {
+          "value": "32"
+        },
+        "street": {
+          "value": "Woodlands Drive 14"
+        },
+        "postal": {
+          "value": "650286"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412219Z": {
+      "uinfin": {
+        "value": "S8412219Z",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Aiden Pillai",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "123"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "11"
+        },
+        "unit": {
+          "value": "33"
+        },
+        "street": {
+          "value": "Pasir Ris Drive 6"
+        },
+        "postal": {
+          "value": "650299"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412272F": {
+      "uinfin": {
+        "value": "S8412272F",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Isabelle Tan",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "124"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "12"
+        },
+        "unit": {
+          "value": "34"
+        },
+        "street": {
+          "value": "Bukit Batok Street 21"
+        },
+        "postal": {
+          "value": "650312"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412325J": {
+      "uinfin": {
+        "value": "S8412325J",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Nadia Karim",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "125"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "13"
+        },
+        "unit": {
+          "value": "35"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650325"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412378A": {
+      "uinfin": {
+        "value": "S8412378A",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Jayden Low",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "126"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "14"
+        },
+        "unit": {
+          "value": "36"
+        },
+        "street": {
+          "value": "Tampines Street 81"
+        },
+        "postal": {
+          "value": "650338"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412431A": {
+      "uinfin": {
+        "value": "S8412431A",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Sophia Ramos",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "127"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "15"
+        },
+        "unit": {
+          "value": "37"
+        },
+        "street": {
+          "value": "Jurong West Street 52"
+        },
+        "postal": {
+          "value": "650351"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412484B": {
+      "uinfin": {
+        "value": "S8412484B",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Hana Yusof",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "128"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "16"
+        },
+        "unit": {
+          "value": "38"
+        },
+        "street": {
+          "value": "Woodlands Drive 14"
+        },
+        "postal": {
+          "value": "650364"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412537G": {
+      "uinfin": {
+        "value": "S8412537G",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 01 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "129"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "17"
+        },
+        "unit": {
+          "value": "39"
+        },
+        "street": {
+          "value": "Pasir Ris Drive 6"
+        },
+        "postal": {
+          "value": "650377"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412590C": {
+      "uinfin": {
+        "value": "S8412590C",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 02 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "130"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "03"
+        },
+        "unit": {
+          "value": "40"
+        },
+        "street": {
+          "value": "Bukit Batok Street 21"
+        },
+        "postal": {
+          "value": "650390"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412643H": {
+      "uinfin": {
+        "value": "S8412643H",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 03 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "131"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "04"
+        },
+        "unit": {
+          "value": "41"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650403"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412696I": {
+      "uinfin": {
+        "value": "S8412696I",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 04 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "132"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "05"
+        },
+        "unit": {
+          "value": "42"
+        },
+        "street": {
+          "value": "Tampines Street 81"
+        },
+        "postal": {
+          "value": "650416"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412749C": {
+      "uinfin": {
+        "value": "S8412749C",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 05 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "133"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "06"
+        },
+        "unit": {
+          "value": "43"
+        },
+        "street": {
+          "value": "Jurong West Street 52"
+        },
+        "postal": {
+          "value": "650429"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412802C": {
+      "uinfin": {
+        "value": "S8412802C",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 06 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "134"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "07"
+        },
+        "unit": {
+          "value": "44"
+        },
+        "street": {
+          "value": "Woodlands Drive 14"
+        },
+        "postal": {
+          "value": "650442"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412855D": {
+      "uinfin": {
+        "value": "S8412855D",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 07 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "135"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "08"
+        },
+        "unit": {
+          "value": "45"
+        },
+        "street": {
+          "value": "Pasir Ris Drive 6"
+        },
+        "postal": {
+          "value": "650455"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412908I": {
+      "uinfin": {
+        "value": "S8412908I",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 08 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "136"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "09"
+        },
+        "unit": {
+          "value": "46"
+        },
+        "street": {
+          "value": "Bukit Batok Street 21"
+        },
+        "postal": {
+          "value": "650468"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8412961E": {
+      "uinfin": {
+        "value": "S8412961E",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 09 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "137"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "10"
+        },
+        "unit": {
+          "value": "47"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650481"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413014A": {
+      "uinfin": {
+        "value": "S8413014A",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 10 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "138"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "11"
+        },
+        "unit": {
+          "value": "48"
+        },
+        "street": {
+          "value": "Tampines Street 81"
+        },
+        "postal": {
+          "value": "650494"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413067B": {
+      "uinfin": {
+        "value": "S8413067B",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 11 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "139"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "12"
+        },
+        "unit": {
+          "value": "49"
+        },
+        "street": {
+          "value": "Jurong West Street 52"
+        },
+        "postal": {
+          "value": "650507"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413120B": {
+      "uinfin": {
+        "value": "S8413120B",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 12 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "140"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "13"
+        },
+        "unit": {
+          "value": "10"
+        },
+        "street": {
+          "value": "Woodlands Drive 14"
+        },
+        "postal": {
+          "value": "650520"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413173C": {
+      "uinfin": {
+        "value": "S8413173C",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 13 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "141"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "14"
+        },
+        "unit": {
+          "value": "11"
+        },
+        "street": {
+          "value": "Pasir Ris Drive 6"
+        },
+        "postal": {
+          "value": "650533"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413226H": {
+      "uinfin": {
+        "value": "S8413226H",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 14 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "142"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "15"
+        },
+        "unit": {
+          "value": "12"
+        },
+        "street": {
+          "value": "Bukit Batok Street 21"
+        },
+        "postal": {
+          "value": "650546"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413279I": {
+      "uinfin": {
+        "value": "S8413279I",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 15 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "143"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "16"
+        },
+        "unit": {
+          "value": "13"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650559"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413332I": {
+      "uinfin": {
+        "value": "S8413332I",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 16 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "144"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "17"
+        },
+        "unit": {
+          "value": "14"
+        },
+        "street": {
+          "value": "Tampines Street 81"
+        },
+        "postal": {
+          "value": "650572"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413385Z": {
+      "uinfin": {
+        "value": "S8413385Z",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 17 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "145"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "03"
+        },
+        "unit": {
+          "value": "15"
+        },
+        "street": {
+          "value": "Jurong West Street 52"
+        },
+        "postal": {
+          "value": "650585"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413438D": {
+      "uinfin": {
+        "value": "S8413438D",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 18 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "146"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "04"
+        },
+        "unit": {
+          "value": "16"
+        },
+        "street": {
+          "value": "Woodlands Drive 14"
+        },
+        "postal": {
+          "value": "650598"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413491J": {
+      "uinfin": {
+        "value": "S8413491J",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 19 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "147"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "05"
+        },
+        "unit": {
+          "value": "17"
+        },
+        "street": {
+          "value": "Pasir Ris Drive 6"
+        },
+        "postal": {
+          "value": "650611"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413544E": {
+      "uinfin": {
+        "value": "S8413544E",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 20 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "148"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "06"
+        },
+        "unit": {
+          "value": "18"
+        },
+        "street": {
+          "value": "Bukit Batok Street 21"
+        },
+        "postal": {
+          "value": "650624"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8413597F": {
+      "uinfin": {
+        "value": "S8413597F",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Test Student 21 Pagination",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "149"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "07"
+        },
+        "unit": {
+          "value": "19"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650637"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8200222D": {
+      "uinfin": {
+        "value": "S8200222D",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Rahman bin Ali",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "102"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "05"
+        },
+        "unit": {
+          "value": "12"
+        },
+        "street": {
+          "value": "Tampines Street 81"
+        },
+        "postal": {
+          "value": "650026"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411159G": {
+      "uinfin": {
+        "value": "S8411159G",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Lee Zhi Hao",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "103"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "06"
+        },
+        "unit": {
+          "value": "13"
+        },
+        "street": {
+          "value": "Jurong West Street 52"
+        },
+        "postal": {
+          "value": "650039"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8411901F": {
+      "uinfin": {
+        "value": "S8411901F",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Parent of Nurul Huda",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "117"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "05"
+        },
+        "unit": {
+          "value": "27"
+        },
+        "street": {
+          "value": "Pasir Ris Drive 6"
+        },
+        "postal": {
+          "value": "650221"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S7912340D": {
+      "uinfin": {
+        "value": "S7912340D",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Spouse of Nadia Karim (Father)",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "125"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "13"
+        },
+        "unit": {
+          "value": "35"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "650325"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S7623451E": {
+      "uinfin": {
+        "value": "S7623451E",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Lim Siew Mei",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "22"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "09"
+        },
+        "unit": {
+          "value": "22"
+        },
+        "street": {
+          "value": "Pasir Ris Drive 6"
+        },
+        "postal": {
+          "value": "510022"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8467890B": {
+      "uinfin": {
+        "value": "S8467890B",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Wong Kar Seng",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "77"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "02"
+        },
+        "unit": {
+          "value": "77"
+        },
+        "street": {
+          "value": "Clementi Avenue 3"
+        },
+        "postal": {
+          "value": "120077"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    },
+    "S8578901E": {
+      "uinfin": {
+        "value": "S8578901E",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "name": {
+        "value": "Lee Siew Lan",
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      },
+      "regadd": {
+        "type": "SG",
+        "block": {
+          "value": "15"
+        },
+        "building": {
+          "value": ""
+        },
+        "floor": {
+          "value": "10"
+        },
+        "unit": {
+          "value": "15"
+        },
+        "street": {
+          "value": "Woodlands Drive 14"
+        },
+        "postal": {
+          "value": "730015"
+        },
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "classification": "C",
+        "source": "1",
+        "lastupdated": "2026-10-22"
+      }
+    }
+  }
+}

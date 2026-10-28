@@ -1,0 +1,1 @@
+{"uuid": "36174ae7-034f-4e3e-821c-e3bd0df2a97b", "children": ["26ebdb6c-d240-43ec-a90a-6da58e2293f3"], "befores": [{"name": "school_portal", "status": "passed", "start": 1792994684065, "stop": 1792994684821}], "afters": [{"name": "school_portal::<lambda>", "start": 1792994687815}], "start": 1792994684065, "stop": 1792994687815}

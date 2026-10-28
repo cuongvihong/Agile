@@ -1,0 +1,1 @@
+{"uuid": "2ccf58ad-a00c-417d-b57a-8706c59b15ea", "children": ["1b79e360-ede7-4d63-a4f2-ec5bac74a168"], "befores": [{"name": "wiz", "status": "passed", "start": 1793164965928, "stop": 1793164967362}], "afters": [{"name": "wiz::<lambda>", "start": 1793164968156}], "start": 1793164965928, "stop": 1793164968156}

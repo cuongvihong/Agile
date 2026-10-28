@@ -1,0 +1,18 @@
+Changed database context to 'EducationAccountDatabase'.
+A. Education Account: them hoc sinh, vi, so cai vi cho cac con R9
+bo_qua_vi_nric_da_ton_tai_voi_id_khac              nric      id_hien_co                                        
+-------------------------------------------------- --------- --------------------------------------------------
+  students them moi: 14
+  wallets them moi: 13
+  wallet_transactions them moi: 17
+  A2 bo qua (REPAIR_MISSING_WALLETS = 0). Neu verify cho thay con co NRIC cua persona nhung thieu vi, chay lai voi gia tri 1.
+Changed database context to 'BillingPaymentDatabase'.
+B. Billing: them khoan phi, hoa don, giao dich, nguon thanh toan, bien nhan webhook
+  initiated_by_user_id dung cho giao dich: 5c614989-a1f0-4ba1-8a60-f665e283292a
+  student_charges them moi: 54
+  invoices them moi: 5
+  invoice_items them moi: 4
+  transactions them moi: 5
+  transaction_funding_sources them moi: 5
+  payment_webhook_receipts them moi: 2
+Xong. Chay tools\seed_r9_verify.sql de doi chieu.

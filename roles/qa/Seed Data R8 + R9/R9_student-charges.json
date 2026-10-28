@@ -1,0 +1,1069 @@
+{
+  "_note": "Function 3 data behind the R9 invoices: the 26 R4 student_charges plus 6 added ones (AX01–AX06, created by R4_addon.sql). SAMPLE DATA. 22/10/2026.",
+  "feeComponents": [
+    {
+      "id": "ac40bbe6-6ba0-5c33-a56c-55463fb2563d",
+      "code": "MISC",
+      "name": "Miscellaneous fee",
+      "feeType": "Miscellaneous fee",
+      "isApplyTax": true
+    },
+    {
+      "id": "af9b811e-fb34-5c5c-9f95-d920d16bcf17",
+      "code": "MEAL",
+      "name": "School Meal Fee",
+      "feeType": "Miscellaneous fee",
+      "isApplyTax": true
+    },
+    {
+      "id": "e91b9933-1ebe-52c7-b616-98b930dc7751",
+      "code": "SVC",
+      "name": "Service charge",
+      "feeType": "Ad hoc",
+      "isApplyTax": true
+    }
+  ],
+  "schools": [
+    {
+      "id": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "code": "BVP",
+      "name": "Bukit View Primary"
+    },
+    {
+      "id": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "code": "MSS",
+      "name": "Meridian Secondary"
+    },
+    {
+      "id": "4a849167-7545-5bf8-b05b-e92a4438a636",
+      "code": "RSS",
+      "name": "Riverside Secondary"
+    }
+  ],
+  "studentCharges": [
+    {
+      "id": "3752f7c8-2dd1-575f-93db-86b05c58881f",
+      "seedKey": "CH01",
+      "source": "R4",
+      "studentId": "099e7c9e-5fb0-5e4a-86d9-e83ac4dbd91f",
+      "studentCode": "S01",
+      "studentName": "Nur Aisyah",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "967e62d7-b5c6-5f6e-9eca-237a0848066a",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000101",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "d41a5fcf-d3a3-524a-9933-e2cd68129261",
+      "seedKey": "CH02",
+      "source": "R4",
+      "studentId": "0c4b56e4-ccd1-5984-9b42-a230afce4da0",
+      "studentCode": "S02",
+      "studentName": "Aisha Rahman",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "e5a08454-ab44-5cde-b8dc-c63ef4a6976c",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000102",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "39daff2c-1310-589f-bb21-f215f90db6f1",
+      "seedKey": "CH03",
+      "source": "R4",
+      "studentId": "0c4b56e4-ccd1-5984-9b42-a230afce4da0",
+      "studentCode": "S02",
+      "studentName": "Aisha Rahman",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "e5a08454-ab44-5cde-b8dc-c63ef4a6976c",
+      "feeComponent": "MEAL",
+      "description": "School Meal Fee, Nov",
+      "periodStart": "2026-11-01",
+      "periodEndExclusive": "2026-12-01",
+      "status": "POSTED",
+      "baseAmount": 64.8,
+      "taxAmount": 5.83,
+      "totalAmount": 70.63,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000103",
+      "components": [
+        {
+          "code": "MEAL",
+          "name": "School Meal Fee",
+          "amount": 64.8
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 5.83
+        }
+      ]
+    },
+    {
+      "id": "6046b530-cf4d-5d7e-9797-83c68a33f850",
+      "seedKey": "CH04",
+      "source": "R4",
+      "studentId": "268c34c2-fd39-53d9-84ec-1b73d9017eb8",
+      "studentCode": "S03",
+      "studentName": "Lee Zhi Hao",
+      "schoolId": "4a849167-7545-5bf8-b05b-e92a4438a636",
+      "enrollmentId": "babb0263-ec34-583c-bfd5-6f5ec250cc2c",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000104",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "d86260eb-6290-572c-bf56-61d1cbeb1522",
+      "seedKey": "CH05",
+      "source": "R4",
+      "studentId": "411830dc-c6e1-5369-ab7f-7f4b9f3f8bcb",
+      "studentCode": "S04",
+      "studentName": "Ryan Lim",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "aa209d8f-34ae-5e3a-9911-08b86800fbb6",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000105",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "5023c7f7-523d-5a96-be0b-1f8eb17dd7e4",
+      "seedKey": "CH06",
+      "source": "R4",
+      "studentId": "4bb745fa-f4f3-5649-9037-8af1ac4990d8",
+      "studentCode": "S05",
+      "studentName": "Chen Xin Yi",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "bb056273-bd64-552d-86f7-9a24d9ac156a",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000106",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "4cc2a6a2-65ab-513b-81c8-27dd1fc19df5",
+      "seedKey": "CH07",
+      "source": "R4",
+      "studentId": "fbd1f713-e3df-5f17-901a-e82ba802bab1",
+      "studentCode": "S06",
+      "studentName": "Daniel Ong",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "dd85c59e-ea1b-53c1-bd83-0db5c3a0f6c5",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000107",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "98b134be-5493-5b6f-91ec-d595085f7b09",
+      "seedKey": "CH08",
+      "source": "R4",
+      "studentId": "fbd1f713-e3df-5f17-901a-e82ba802bab1",
+      "studentCode": "S06",
+      "studentName": "Daniel Ong",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "dd85c59e-ea1b-53c1-bd83-0db5c3a0f6c5",
+      "feeComponent": "MEAL",
+      "description": "School Meal Fee, Nov",
+      "periodStart": "2026-11-01",
+      "periodEndExclusive": "2026-12-01",
+      "status": "POSTED",
+      "baseAmount": 64.8,
+      "taxAmount": 5.83,
+      "totalAmount": 70.63,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000108",
+      "components": [
+        {
+          "code": "MEAL",
+          "name": "School Meal Fee",
+          "amount": 64.8
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 5.83
+        }
+      ]
+    },
+    {
+      "id": "2842e306-d17b-58dc-a292-7e72ba07b5a5",
+      "seedKey": "CH09",
+      "source": "R4",
+      "studentId": "5077e467-2178-5ed0-83eb-9ccbc7f62670",
+      "studentCode": "S07",
+      "studentName": "Priya Nair",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "2617ec33-62d1-5614-8cb4-aabb42abdc12",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000109",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "2b57704b-21d2-5857-80f8-a5204385b48e",
+      "seedKey": "CH10",
+      "source": "R4",
+      "studentId": "9bbd2380-c031-5a59-b237-d5675039c4ba",
+      "studentCode": "S08",
+      "studentName": "Farhan Ismail",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "141cf642-d2ee-5768-a50d-178470820e99",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000111",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "3b9497d5-6e66-5742-8103-a522cf151ca4",
+      "seedKey": "CH11",
+      "source": "R4",
+      "studentId": "335a5f84-0d5d-5f52-ad35-2cb2a0624ad0",
+      "studentCode": "S09",
+      "studentName": "Jun Hao Wong",
+      "schoolId": "4a849167-7545-5bf8-b05b-e92a4438a636",
+      "enrollmentId": "4a4dfed1-7a15-5609-a0b3-226cb5955eb0",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000112",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "5cbcfe65-079d-5a80-bb38-90a6713acf5b",
+      "seedKey": "CH12",
+      "source": "R4",
+      "studentId": "f063b14b-8ec5-507d-84ad-9a9d36a79c26",
+      "studentCode": "S10",
+      "studentName": "Ethan Chua",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "ba489887-1cc7-5f38-9a9a-a702634bb6cf",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 33.33,
+      "taxAmount": 3.0,
+      "totalAmount": 36.33,
+      "fasSubsidy": 25.0,
+      "invoiceNumber": "INV-2026-000114",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 33.33
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 3.0
+        }
+      ]
+    },
+    {
+      "id": "8eeaa461-b553-5080-8055-20f20cdf80cb",
+      "seedKey": "CH13",
+      "source": "R4",
+      "studentId": "f063b14b-8ec5-507d-84ad-9a9d36a79c26",
+      "studentCode": "S10",
+      "studentName": "Ethan Chua",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "ba489887-1cc7-5f38-9a9a-a702634bb6cf",
+      "feeComponent": "MEAL",
+      "description": "School Meal Fee, Nov",
+      "periodStart": "2026-11-01",
+      "periodEndExclusive": "2026-12-01",
+      "status": "POSTED",
+      "baseAmount": 33.33,
+      "taxAmount": 3.0,
+      "totalAmount": 36.33,
+      "fasSubsidy": 16.67,
+      "invoiceNumber": "INV-2026-000115",
+      "components": [
+        {
+          "code": "MEAL",
+          "name": "School Meal Fee",
+          "amount": 33.33
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 3.0
+        }
+      ]
+    },
+    {
+      "id": "be4ba0cd-78ac-53b3-a4a1-ff44248a702d",
+      "seedKey": "CH14",
+      "source": "R4",
+      "studentId": "f063b14b-8ec5-507d-84ad-9a9d36a79c26",
+      "studentCode": "S10",
+      "studentName": "Ethan Chua",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "ba489887-1cc7-5f38-9a9a-a702634bb6cf",
+      "feeComponent": "SVC",
+      "description": "Service charge, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 10.0,
+      "taxAmount": 0.9,
+      "totalAmount": 10.9,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000114",
+      "components": [
+        {
+          "code": "SVC",
+          "name": "Service charge",
+          "amount": 10.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 0.9
+        }
+      ]
+    },
+    {
+      "id": "fbb0b4d1-1b20-5353-91a2-4657b2c1b653",
+      "seedKey": "CH15",
+      "source": "R4",
+      "studentId": "42d2b2a2-3667-5b78-98b4-0523ed57cc78",
+      "studentCode": "S11",
+      "studentName": "Grace Lim",
+      "schoolId": "4a849167-7545-5bf8-b05b-e92a4438a636",
+      "enrollmentId": "8425bd29-63ef-57b7-914d-25dd2de24515",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 12.5,
+      "invoiceNumber": "INV-2026-000117",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "ecd03bf5-54a2-54d3-921d-5e6d0f1885f9",
+      "seedKey": "CH16",
+      "source": "R4",
+      "studentId": "1c184a76-640c-5ed3-94bf-662fbfde6b0a",
+      "studentCode": "S12",
+      "studentName": "Samuel Teo",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "994ce7ee-0b10-5a37-b28a-b74f6dd4d152",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 12.5,
+      "invoiceNumber": "INV-2026-000118",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "36bb6540-402e-56d2-8f37-7c356eceb3a7",
+      "seedKey": "CH17",
+      "source": "R4",
+      "studentId": "ab2ae1b9-d764-574d-8143-e1c53aa11684",
+      "studentCode": "S13",
+      "studentName": "Amira Hassan",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "87c83e2f-3d5f-5fbe-9ed1-f840362b2d16",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000119",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "897757fe-4109-551b-8089-c54881d54724",
+      "seedKey": "CH18",
+      "source": "R4",
+      "studentId": "17a43e4c-1c02-506c-a1cd-8496050bded4",
+      "studentCode": "S14",
+      "studentName": "Wei Ling Sim",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "b88a4f04-de8d-560c-94ef-2a94405f3533",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 20.0,
+      "taxAmount": 1.8,
+      "totalAmount": 21.8,
+      "fasSubsidy": 15.0,
+      "invoiceNumber": "INV-2026-000120",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 20.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.8
+        }
+      ]
+    },
+    {
+      "id": "480228ee-b791-5c13-a78e-b7c936798855",
+      "seedKey": "CH19",
+      "source": "R4",
+      "studentId": "c7dfeb0f-001b-5629-8d6b-f24f03b5fe4c",
+      "studentCode": "S16",
+      "studentName": "Darren Ho",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "0c0608d9-1fd4-5a85-8a92-6e614a43b346",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 14.63,
+      "invoiceNumber": "INV-2026-000122",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "afc132ba-d40b-5c56-9d13-b70e8fffa64e",
+      "seedKey": "CH20",
+      "source": "R4",
+      "studentId": "c7dfeb0f-001b-5629-8d6b-f24f03b5fe4c",
+      "studentCode": "S16",
+      "studentName": "Darren Ho",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "0c0608d9-1fd4-5a85-8a92-6e614a43b346",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 3",
+      "periodStart": "2026-07-13",
+      "periodEndExclusive": "2026-09-19",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000121",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "5a5a1fde-c391-57d0-b0c3-b3496184be17",
+      "seedKey": "CH21",
+      "source": "R4",
+      "studentId": "2e336f0d-59ef-5573-b8dd-c954a7ee0f5c",
+      "studentCode": "S18",
+      "studentName": "Zachary Lee",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "07c5fcf7-8efb-5ec6-a889-2f90fe6f4533",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000123",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "eea83607-d2bb-5c07-9b0d-24fc5e7fd583",
+      "seedKey": "CH22",
+      "source": "R4",
+      "studentId": "88f80eb3-c090-5bec-a88e-4fb152bf43c8",
+      "studentCode": "S19",
+      "studentName": "Chloe Ng",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "52fa4418-9b36-5a23-94b2-e630e718162e",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000124",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "7d019bdb-ebb8-505d-9d10-84674deafb01",
+      "seedKey": "CH23",
+      "source": "R4",
+      "studentId": "30ae0708-2bc4-5fde-842f-f9cfade9d2ee",
+      "studentCode": "S20",
+      "studentName": "Owen Goh",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "ae6c62a9-0c5e-5bbc-80a2-b2a7f06632f4",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000125",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "972d6e79-27cb-5dbd-b004-10b1d35efd3c",
+      "seedKey": "CH24",
+      "source": "R4",
+      "studentId": "5c110cd2-87a3-5a26-b1db-89ceeb4fece8",
+      "studentCode": "S25",
+      "studentName": "Nadia Karim",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "e5dbb162-bd0f-5fb0-a7cf-e00aac926759",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 25.0,
+      "invoiceNumber": "INV-2026-000126",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "f5d85280-dca2-5b1d-969d-ac9e6e4a9e5d",
+      "seedKey": "CH25",
+      "source": "R4",
+      "studentId": "5c110cd2-87a3-5a26-b1db-89ceeb4fece8",
+      "studentCode": "S25",
+      "studentName": "Nadia Karim",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "e5dbb162-bd0f-5fb0-a7cf-e00aac926759",
+      "feeComponent": "MEAL",
+      "description": "School Meal Fee, Nov",
+      "periodStart": "2026-11-01",
+      "periodEndExclusive": "2026-12-01",
+      "status": "POSTED",
+      "baseAmount": 64.8,
+      "taxAmount": 5.83,
+      "totalAmount": 70.63,
+      "fasSubsidy": 64.8,
+      "invoiceNumber": "INV-2026-000127",
+      "components": [
+        {
+          "code": "MEAL",
+          "name": "School Meal Fee",
+          "amount": 64.8
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 5.83
+        }
+      ]
+    },
+    {
+      "id": "e281631d-1c0e-5433-82f9-12ecb21f1785",
+      "seedKey": "CH26",
+      "source": "R4",
+      "studentId": "b827b44a-b84d-5f7f-9655-15f0542b5e08",
+      "studentCode": "S27",
+      "studentName": "Sophia Ramos",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "5409cd3c-2c40-5be7-b548-9469a24be57f",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 19.5,
+      "taxAmount": 1.76,
+      "totalAmount": 21.26,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000128",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 19.5
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 1.76
+        }
+      ]
+    },
+    {
+      "id": "08000000-0000-0000-0004-000000000001",
+      "seedKey": "AX01",
+      "source": "Added",
+      "studentId": "f063b14b-8ec5-507d-84ad-9a9d36a79c26",
+      "studentCode": "S10",
+      "studentName": "Ethan Chua",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "ba489887-1cc7-5f38-9a9a-a702634bb6cf",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 3",
+      "periodStart": "2026-07-13",
+      "periodEndExclusive": "2026-09-19",
+      "status": "POSTED",
+      "baseAmount": 33.33,
+      "taxAmount": 3.0,
+      "totalAmount": 36.33,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000113",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 33.33
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 3.0
+        }
+      ]
+    },
+    {
+      "id": "08000000-0000-0000-0004-000000000002",
+      "seedKey": "AX02",
+      "source": "Added",
+      "studentId": "f063b14b-8ec5-507d-84ad-9a9d36a79c26",
+      "studentCode": "S10",
+      "studentName": "Ethan Chua",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "ba489887-1cc7-5f38-9a9a-a702634bb6cf",
+      "feeComponent": "MEAL",
+      "description": "School Meal Fee, Dec",
+      "periodStart": "2026-12-01",
+      "periodEndExclusive": "2027-01-01",
+      "status": "POSTED",
+      "baseAmount": 33.33,
+      "taxAmount": 3.0,
+      "totalAmount": 36.33,
+      "fasSubsidy": 16.67,
+      "invoiceNumber": "INV-2026-000116",
+      "components": [
+        {
+          "code": "MEAL",
+          "name": "School Meal Fee",
+          "amount": 33.33
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 3.0
+        }
+      ]
+    },
+    {
+      "id": "08000000-0000-0000-0004-000000000003",
+      "seedKey": "AX03",
+      "source": "Added",
+      "studentId": "5077e467-2178-5ed0-83eb-9ccbc7f62670",
+      "studentCode": "S07",
+      "studentName": "Priya Nair",
+      "schoolId": "11182d1f-64d9-52e2-9ab7-d86d82d0db0f",
+      "enrollmentId": "2617ec33-62d1-5614-8cb4-aabb42abdc12",
+      "feeComponent": "SVC",
+      "description": "Service charge, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "CANCELLED",
+      "baseAmount": 10.0,
+      "taxAmount": 0.9,
+      "totalAmount": 10.9,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000110",
+      "components": [
+        {
+          "code": "SVC",
+          "name": "Service charge",
+          "amount": 10.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 0.9
+        }
+      ]
+    },
+    {
+      "id": "08000000-0000-0000-0004-000000000004",
+      "seedKey": "AX04",
+      "source": "Added",
+      "studentId": "08000000-0000-0000-0001-000000000101",
+      "studentCode": "X01",
+      "studentName": "Hakim Karim",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "08000000-0000-0000-0006-000000000101",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000129",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "08000000-0000-0000-0004-000000000005",
+      "seedKey": "AX05",
+      "source": "Added",
+      "studentId": "08000000-0000-0000-0001-000000000105",
+      "studentCode": "X05",
+      "studentName": "Lim Wei Jie",
+      "schoolId": "4a849167-7545-5bf8-b05b-e92a4438a636",
+      "enrollmentId": "08000000-0000-0000-0006-000000000105",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 25.0,
+      "taxAmount": 2.25,
+      "totalAmount": 27.25,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000131",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 25.0
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 2.25
+        }
+      ]
+    },
+    {
+      "id": "08000000-0000-0000-0004-000000000006",
+      "seedKey": "AX06",
+      "source": "Added",
+      "studentId": "08000000-0000-0000-0001-000000000103",
+      "studentCode": "X03",
+      "studentName": "Emma Chua",
+      "schoolId": "a82af704-e047-56b4-8490-cd68feb38d34",
+      "enrollmentId": "08000000-0000-0000-0006-000000000103",
+      "feeComponent": "MISC",
+      "description": "Miscellaneous fee, Term 4",
+      "periodStart": "2026-10-05",
+      "periodEndExclusive": "2026-12-12",
+      "status": "POSTED",
+      "baseAmount": 33.33,
+      "taxAmount": 3.0,
+      "totalAmount": 36.33,
+      "fasSubsidy": 0.0,
+      "invoiceNumber": "INV-2026-000130",
+      "components": [
+        {
+          "code": "MISC",
+          "name": "Miscellaneous fee",
+          "amount": 33.33
+        },
+        {
+          "code": "GST",
+          "name": "GST 9%",
+          "amount": 3.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+artifacts/auth/
+artifacts/test-results/
+artifacts/reports/*.html
+artifacts/reports/*.xml
