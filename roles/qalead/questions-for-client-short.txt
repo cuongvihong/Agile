@@ -1,0 +1,100 @@
+QUESTIONS FOR THE CLIENT SESSION
+MOE Finance System, tender requirements 1, 3, 8, 9
+Prepared by: QA Lead    Date: 2026-10-12
+Updated after the kick off minutes of 12 October and the PM Product Backlog.
+Ref gives the matching item in the sheet Open Questions of the PM backlog.
+Questions already answered by the client were removed.
+
+----------------------------------------------------------------------
+FOR PM AND PO
+----------------------------------------------------------------------
+
+Q1. You estimated about 500 HQ users, 300 schools with about 200 users each
+and up to 2 million parents. These are not concurrent users. We propose
+about 1,400 staff and 800 parents at normal load, and twice that at peak.
+This assumes that 50 percent of staff and 10 percent of parents use the
+system each day, in sessions of 30 and 5 minutes. Are these shares and
+session lengths reasonable, or how many concurrent users do you expect?
+Ref: OQ-17
+
+Q2. Parents may use the portal from 6:00 to 2:00, and usage may rise around
+bill payment dates. Which dates are the busiest, and how many times the
+normal load do you expect then? We plan to test with 2 times.
+Ref: OQ-17
+
+Q3. At peak, how slow may the system be? We plan to accept reads within
+3 seconds for 95 percent of requests and 6 seconds for 99 percent, writes
+and payments within 5 and 8 seconds, at most 2 percent errors, and recovery
+to normal within 5 minutes after the overload. Do you agree?
+
+Q4. What counts as a failed operation: a server error, a timeout, a wrong
+result, or all of them? Is 1 percent the most that may fail at normal load?
+
+Q5. Parents are expected to use the portal up to 20 hours a day. We plan an
+endurance run of 8 hours at the target load and 2 hours at a small load, and
+allow response time and memory to grow at most 20 percent. Do you agree?
+
+Q6. How much will the data grow while the system is in use? We plan to test
+with 5 times the size of the mock data.
+
+Q7. Will the system run on more than one server? If not, we will not test
+scalability.
+
+Q8. After how many minutes of inactivity should a user be signed out? We
+propose 30 minutes.
+
+----------------------------------------------------------------------
+FOR PO AND CLIENT
+----------------------------------------------------------------------
+
+Q9. What are the allowed format, length and range of each field users type
+in: addresses, contact numbers, names, fee data and payment amounts? The BA
+analysis assumes mobile numbers of 8 digits starting with 8 or 9 and postal
+codes of 6 digits. Please confirm these.
+
+Q10. At closure you expect no pending transactions and the balance to go to
+CPF. What happens if a pending transaction still exists when an account
+reaches age 16, and what are the interface and the checks for the transfer
+to CPF? Ref: OQ-13
+
+Q11. Who creates the payable charges, from which source, and does the system
+create them in bulk? For Sprint 1, may we use a test charge dataset?
+Ref: OQ-04, OQ-10
+
+Q12. Which fee components carry GST, what are the rate and the rounding rule,
+and from which date does a change of rate apply, including to charges
+already created? Ref: OQ-10
+
+Q13. Students without an Education Account pay from their own funds. Is
+online payment their only option, and are there other restrictions on
+payment from balance? Ref: OQ-11
+
+Q14. Where do the parent to child relationships come from, and can more than
+one guardian see the same child? Ref: OQ-02
+
+----------------------------------------------------------------------
+FOR DEV LEAD
+----------------------------------------------------------------------
+
+Q15. Parents are expected to use the portal from 6:00 to 2:00, and the
+system is not stated to be closed from 2:00 to 6:00. When does the account
+creation and closure job run, and may it run while parents are using the
+system? Ref: OQ-06
+
+Q16. What are the limits on sign in attempts and on payment requests per
+user, and over what period of time do they apply?
+
+Q17. How many students, parents, accounts and transactions does the mock
+data hold? Please give the numbers when PB-04 is complete.
+
+Q18. We plan to measure response time from the moment the test tool sends
+the request to the moment it receives the full response, without browser
+display time. Do you agree?
+
+Q19. Can the speed, success and failure behaviour of the simulated SingPass
+login and the mock payment provider be fixed before we start measuring and
+stay the same in every round? Is a sandbox available for SingPass, for
+online payment and for CPF? Ref: OQ-03, OQ-11, OQ-13
+
+Q20. Can the test environment be sized to carry 1,400 staff and 800 parents
+at the same time? If not, what is the largest size you can provide?
