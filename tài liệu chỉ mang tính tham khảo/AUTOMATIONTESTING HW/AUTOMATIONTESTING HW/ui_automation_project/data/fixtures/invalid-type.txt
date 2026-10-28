@@ -1,0 +1,3 @@
+This is a plain text file used to test the AUT's file-type rejection.
+It is not a JPG, PNG, or PDF, so the Save button's client-side validation
+must reject it (see docs/SESSION_01_ANALYSIS_AND_REQUIREMENTS.md, TS-14).

@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Pytest / Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Artifacts & Reports (ignore generated runs, keep directory structure)
+artifacts/screenshots/*
+!artifacts/screenshots/.gitkeep
+artifacts/traces/*
+!artifacts/traces/.gitkeep
+artifacts/reports/*
+!artifacts/reports/.gitkeep
+artifacts/allure-results/*
+!artifacts/allure-results/.gitkeep
+artifacts/allure-report/*
+!artifacts/allure-report/.gitkeep
+artifacts/test-results/*
+!artifacts/test-results/.gitkeep

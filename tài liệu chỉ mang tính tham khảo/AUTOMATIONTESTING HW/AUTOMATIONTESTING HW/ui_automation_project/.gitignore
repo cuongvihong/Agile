@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Raw, transient per-run output from pytest-playwright's own
+# --output=artifacts/test-results (bundles screenshot+trace per failing
+# test). Meaningful evidence worth keeping is copied out, by hand, into
+# artifacts/screenshots/ and artifacts/traces/, which ARE committed —
+# see docs/SESSION_05_EXECUTION_DEBUGGING_AND_ARTIFACTS.md.
+artifacts/test-results/
