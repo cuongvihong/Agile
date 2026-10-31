@@ -1,0 +1,78 @@
+{
+  "_comment": "Mapping of the master 01 test data to the data that really exists on the hosted UAT environment. Edit here, not in the tests. Every value can also be overridden by an environment variable (see core/config.py).",
+  "urls": {
+    "admin": "https://admin.20-255-158-192.sslip.io",
+    "eservice": "https://eservice.20-255-158-192.sslip.io",
+    "gateway_host": "pay.20-255-158-192.sslip.io"
+  },
+  "admin_login": {
+    "_comment": "microsoft = button 'Sign in with Microsoft' then pick the test account tile (no password). password = username + password from UAT_HQ_PASS / UAT_SCHOOL_PASS.",
+    "mode": "microsoft",
+    "hq_account": "admin@IAM.edu.vn",
+    "school_account": "staff1@IAM.edu.vn",
+    "hq_user": "moehq",
+    "school_user": "school"
+  },
+  "pay": {
+    "_comment": "Master: parent.test01 / student.test01 / EA-001. Mapped to persona S8901234H (AHMAD BIN RAHMAN). child = EA used by PAR-01, N3, A1. second_child = EA used by N4 and E2 (topped up to 20.00 first, as the master).",
+    "persona": "S8901234H",
+    "child": "Ethan Rahman",
+    "child_nric": "S3678638G",
+    "second_child": "Leo Rahman",
+    "second_child_nric": "S5918715F",
+    "low_balance": "20.00"
+  },
+  "fas": {
+    "_comment": "Master: Singapore Citizen parent, child 10 years old, relationship Mother. Mapped to persona S7890123F (LIM WEI MINH, a father) and his child Lucas Lim. relationship follows the persona.",
+    "persona": "S7890123F",
+    "child": "Lucas Lim",
+    "relationship": "Father",
+    "phone": "91234567",
+    "email": "uat.parent01@example.com",
+    "context": "Household income reduced"
+  },
+  "activity": {
+    "_comment": "PAR-03: a parent with two children whose EAs already have top-ups and payments.",
+    "persona": "S8901234H",
+    "child": "Ethan Rahman"
+  },
+  "not_found": {
+    "_comment": "PAR-01-N2: master parent.test99, NRIC S0000999Z. Uses the Password login tab of the Singpass simulator.",
+    "nric": "S0000999Z",
+    "password": "uat-test-only"
+  },
+  "school": {
+    "_comment": "SCH-01: a parent of a child at the school of the school account (Rosyth Primary School, SCH-003). Master: applicant S0000100A, child S0000001A. Mapped to AHMAD BIN RAHMAN and Ethan Rahman.",
+    "parent_nric": "S8901234H",
+    "child_nric": "S3678638G",
+    "child_over_age_nric": "S0000200C",
+    "relationship": "Father",
+    "phone": "91234567",
+    "context": "Household income reduced",
+    "paper_file": "data/paper-form-test01.pdf"
+  },
+  "moefas": {
+    "_comment": "MOE-06 master data. The year is kept; when a rerun hits the overlap rule the suite shifts the dates by 100 years and says so.",
+    "name": "MOEFAS 2028",
+    "form_opens": "2028-08-01",
+    "form_closes": "2028-12-31",
+    "effective_from": "2029-01-01",
+    "budget": "1000000.00",
+    "ghi_to": "4000",
+    "pci_to": "1100",
+    "rates": {"Primary": "100", "Secondary": "70", "Pre-University": "50"}
+  },
+  "sbfas": {
+    "_comment": "SCH-02 master data: Tier 1, Singapore Citizen, P1 100 / P2 80 / P3 60. The master gives no dates or income bands, these are the mapped values.",
+    "name": "Tier 1",
+    "open_from": "2027-01-04",
+    "open_to": "2027-01-29",
+    "effective_from": "2027-02-01",
+    "effective_to": "2027-12-31",
+    "budget": "50000.00",
+    "ghi_to": "20000",
+    "pci_to": "5000",
+    "rates": ["100", "80", "60"]
+  },
+  "allow_foreign_applications": false
+}
